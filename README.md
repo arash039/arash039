@@ -16,7 +16,7 @@ Currently pursuing software engineering at 42 Berlin, a project-based coding sch
     - [stckholm](https://github.com/arash039/python-projects/tree/main/stockholm): a simple software to encrypt files in a specific directory
   - DevOps:
       - [inception](https://github.com/arash039/inception):  a system administration project that focuses on using Docker to automate set up a small infrastructure composed of different services.
-      - [trsnsendence]([https://github.com/arash039/ft_transcendence](https://github.com/arash039/ft_transcendence?tab=readme-ov-file#devops):  integrate the ELK stack for log management and Prometheus and Grafana for monitoring and performance visualization
+      - [trsnsendence](https://github.com/arash039/ft_transcendence?tab=readme-ov-file#devops):  integrate the ELK stack for log management and Prometheus and Grafana for monitoring and performance visualization
 
 <!---
 arash039/arash039 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
