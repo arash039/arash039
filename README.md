@@ -6,7 +6,7 @@ Currently pursuing software engineering at 42 Berlin, a project-based coding sch
     - [webserver](https://github.com/arash039/webserv): a mini nginx type webserver
     - [mastering OOP](https://github.com/arash039/Mastering-OOP): 10 small project each with multiple exercises that covers all necessary for object oriented programming and c++ 
 - c projects:
-    - [minishell](https://github.com/arash039/minishell): a mini command line shell similar to bash
+    - [minishell](https://github.com/arash039/minishell): a mini command line shell, works similar to bash
     - [cub3D](https://github.com/arash039/cub3D): a sample first person game like environment similar to famous Wolfstein game
     - [push-swap](https://github.com/arash039/push_swap): a project designed to sort a stack of integers using a limited set of operations
 - python projects:
