@@ -21,7 +21,7 @@ Currently pursuing software engineering at 42 Berlin, a project-based coding sch
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arash039&layout=compact&langs_count=10" alt="Top Languages" />
 </p>
 <p align="center">
-    <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?arash039" frameborder="0"></iframe>
+    <img width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?arash039" />
 </p>
 <!---
 arash039/arash039 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
