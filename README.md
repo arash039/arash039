@@ -10,7 +10,8 @@ Currently pursuing software engineering at 42 Berlin, a project-based coding sch
     - [webserver](https://github.com/arash039/webserv): a mini nginx type webserver
     - [mastering OOP](https://github.com/arash039/Mastering-OOP): 10 small project each with multiple exercises that covers all necessary for object oriented programming and c++ 
 - **python projects:**
-    - [trsnsendence](https://github.com/arash039/ft_transcendence): online multiplayer pong-game
+    - [trsnsendence](https://github.com/arash039/ft_transcendence): online multiplayer pong-game using Django
+    - [auth-app](https://github.com/arash039/flask-auth-app): a simple authentication app using Flask
     - [arachinda](https://github.com/arash039/python-projects/tree/main/arachnida): spider- a web picture scraper & scorpion- a tool to show image metadata
     - [ft_otp](https://github.com/arash039/python-projects/tree/main/ft_otp): a command line otp generator
     - [stckholm](https://github.com/arash039/python-projects/tree/main/stockholm): a simple software to encrypt files in a specific directory
