@@ -18,6 +18,7 @@ Currently pursuing software engineering at 42 Berlin, a project-based coding sch
     - [inquisitor](https://github.com/arash039/python-projects/tree/main/inquisitor): a tool designed for network analysis and monitoring
 - **Java Projects:**
     - [fixme](https://github.com/arash039/fixme): implementation of a FIX protocol router that utilizes Chain-of-Responsibility design pattern
+    - [AvajLauncher](https://github.com/arash039/AvajLauncher): implementation of Observer, Singleton and Factory design patterns based on an UML class diagram
 - **DevOps Projects:**
     - [inception](https://github.com/arash039/inception):  a system administration project that focuses on using Docker to automate set up a small infrastructure composed of different services.
     - [trsnsendence](https://github.com/arash039/ft_transcendence?tab=readme-ov-file#devops):  integrate the ELK stack for log management and Prometheus and Grafana for monitoring and performance visualization
