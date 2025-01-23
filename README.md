@@ -23,7 +23,7 @@ Currently pursuing software engineering at 42 Berlin, a project-based coding sch
     - [inception](https://github.com/arash039/inception):  a system administration project that focuses on using Docker to automate set up a small infrastructure composed of different services.
     - [trsnsendence](https://github.com/arash039/ft_transcendence?tab=readme-ov-file#devops):  integrate the ELK stack for log management and Prometheus and Grafana for monitoring and performance visualization
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arash039&layout=compact&langs_count=10 alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arash039&layout=compact&langs_count=10&hide=css,scss,php,solidity,html" alt="Top Languages" />
 </p>
 <!---
 arash039/arash039 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
