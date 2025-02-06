@@ -17,6 +17,9 @@ Currently pursuing software engineering at 42 Berlin, a project-based coding sch
     - [stckholm](https://github.com/arash039/python-projects/tree/main/stockholm): a simple software to encrypt files in a specific directory
     - [inquisitor](https://github.com/arash039/python-projects/tree/main/inquisitor): a tool designed for network analysis and monitoring
     - [roads_to_philosophy](https://github.com/arash039/python-projects/tree/main/roads_to_philosophy): a script that traces Wikipedia links to Philosophy, detecting redirects, loops, and dead ends
+    - django projects:
+        - [1](https://github.com/arash039/python-projects/tree/main/django/django-learning-1): consists of 4 apps that covers django basics
+        - [2](https://github.com/arash039/python-projects/tree/main/django/django-learning-2): consists of 10 apps that covers topics such as database modeling, views, templates, and forms 
 - **Java Projects:**
     - [fixme](https://github.com/arash039/fixme): implementation of a FIX protocol router that utilizes Chain-of-Responsibility design pattern
     - [AvajLauncher](https://github.com/arash039/AvajLauncher): implementation of Observer, Singleton and Factory design patterns based on an UML class diagram
