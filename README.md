@@ -2,10 +2,7 @@ Hi, I’m Arash
 
 Currently pursuing software engineering at 42 Berlin, a project-based coding school known for its innovative and collaborative learning environment. Focused on developing robust software solutions through hands-on experience and continuous learning. Gaining proficiency in a variety of programming languages and tools, including Python, C++, Java, Git, Docker, and various testing frameworks. Developing skills in algorithm design, data structures, problem-solving, and systems programming. Here you can see a few examples of my work in 42 School.
 
-- **C Projects:**
-    - [minishell](https://github.com/arash039/minishell): a mini command line shell, works similar to bash
-    - [cub3D](https://github.com/arash039/cub3D): a sample first person game like environment similar to famous Wolfstein game
-    - [push-swap](https://github.com/arash039/push_swap): a project designed to sort a stack of integers using a limited set of operations
+
 - **C++ Projectst:**
     - [webserver](https://github.com/arash039/webserv): a mini nginx type webserver
     - [mastering OOP](https://github.com/arash039/Mastering-OOP): 10 small project each with multiple exercises that covers all necessary for object oriented programming and c++ 
@@ -27,6 +24,10 @@ Currently pursuing software engineering at 42 Berlin, a project-based coding sch
 - **DevOps Projects:**
     - [inception](https://github.com/arash039/inception):  a system administration project that focuses on using Docker to automate set up a small infrastructure composed of different services.
     - [trsnsendence](https://github.com/arash039/ft_transcendence?tab=readme-ov-file#devops):  integrate the ELK stack for log management and Prometheus and Grafana for monitoring and performance visualization
+- **C Projects:**
+    - [minishell](https://github.com/arash039/minishell): a mini command line shell, works similar to bash
+    - [cub3D](https://github.com/arash039/cub3D): a sample first person game like environment similar to famous Wolfstein game
+    - [push-swap](https://github.com/arash039/push_swap): a project designed to sort a stack of integers using a limited set of operations
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arash039&layout=compact&langs_count=8&hide=css,scss,php,solidity,html" alt="Top Languages" />
 </p>
