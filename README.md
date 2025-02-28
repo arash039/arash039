@@ -9,7 +9,7 @@ Currently pursuing software engineering at 42 Berlin, a project-based coding sch
 - **Python Projects:**
     - [trsnsendence](https://github.com/arash039/ft_transcendence): online multiplayer pong-game using Django
     - [life pro tips](https://github.com/arash039/python-projects/tree/main/django/life_pro_tips): a Django-based web application where users can register and login to share, upvote, and downvote life tips
-    - [Task Management API](https://github.com/arash039/task-api): a task management API using Django and Django REST Framework
+    - [task management API](https://github.com/arash039/task-api): a task management API using Django and Django REST Framework
     <!-- - [auth-app](https://github.com/arash039/flask-auth-app): a simple authentication app using Flask -->
     <!-- - [arachinda](https://github.com/arash039/python-projects/tree/main/arachnida): spider- a web picture scraper & scorpion- a tool to show image metadata -->
     - [ft_otp](https://github.com/arash039/python-projects/tree/main/ft_otp): a command line otp generator
