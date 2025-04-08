@@ -21,7 +21,7 @@ Currently pursuing software engineering at 42 Berlin, a project-based coding sch
         - [2](https://github.com/arash039/python-projects/tree/main/django/django-learning-2): consists of 10 apps that covers topics such as Object-Relational Mapping (ORM) and SQL, views, templates, and forms 
         - [life pro tips](https://github.com/arash039/python-projects/tree/main/django/life_pro_tips): a Django-based web application where users can register and login to share, upvote, and downvote life tips -->
 - **Java Projects:**
-    - [fixme](https://github.com/arash039/fixme): implementation of a FIX protocol router that utilizes Chain-of-Responsibility design pattern
+  <!--  - [fixme](https://github.com/arash039/fixme): implementation of a FIX protocol router that utilizes Chain-of-Responsibility design pattern -->
     - [AvajLauncher](https://github.com/arash039/AvajLauncher): implementation of Observer, Singleton and Factory design patterns based on an UML class diagram
 - **DevOps Projects:**
     - [inception](https://github.com/arash039/inception):  a system administration project that focuses on using Docker to automate set up a small infrastructure composed of different services.
