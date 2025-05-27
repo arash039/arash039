@@ -5,7 +5,7 @@ Currently pursuing software engineering at 42 Berlin, a project-based coding sch
 
 - **C++ Projectst:**
     - [webserver](https://github.com/arash039/webserv): a mini nginx type webserver
-    - [mastering OOP](https://github.com/arash039/Mastering-OOP): 10 small project each with multiple exercises that covers all necessary for object oriented programming and c++ 
+    <!-- -- [mastering OOP](https://github.com/arash039/Mastering-OOP): 10 small project each with multiple exercises that covers all necessary for object oriented programming and c++ -->
 - **Python Projects:**
     - [trsnsendence](https://github.com/arash039/ft_transcendence): online multiplayer pong-game using Django
     - [life pro tips](https://github.com/arash039/python-projects/tree/main/django/life_pro_tips): a Django-based web application where users can register and login to share, upvote, and downvote life tips
