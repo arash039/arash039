@@ -8,21 +8,18 @@ Currently pursuing software engineering at 42 Berlin, a project-based coding sch
     <!-- -- [mastering OOP](https://github.com/arash039/Mastering-OOP): 10 small project each with multiple exercises that covers all necessary for object oriented programming and c++ -->
 - **Python Projects:**
     - [trsnsendence](https://github.com/arash039/ft_transcendence): online multiplayer pong-game using Django
-    - [life pro tips](https://github.com/arash039/python-projects/tree/main/django/life_pro_tips): a Django-based web application where users can register and login to share, upvote, and downvote life tips
     - [task management API](https://github.com/arash039/task-api): a task management API using Django and Django REST Framework
     <!-- - [auth-app](https://github.com/arash039/flask-auth-app): a simple authentication app using Flask -->
     <!-- - [arachinda](https://github.com/arash039/python-projects/tree/main/arachnida): spider- a web picture scraper & scorpion- a tool to show image metadata -->
     - [ft_otp](https://github.com/arash039/python-projects/tree/main/ft_otp): a command line otp generator
     <!-- - [stckholm](https://github.com/arash039/python-projects/tree/main/stockholm): a simple software to encrypt files in a specific directory -->
     - [inquisitor](https://github.com/arash039/python-projects/tree/main/inquisitor): a tool designed for network analysis and monitoring
+    - [SaaS app](https://github.com/arash039/FastAPISaaSApp): FastAPI-based Software as a Service (SaaS) application
     <!-- - [roads_to_philosophy](https://github.com/arash039/python-projects/tree/main/roads_to_philosophy): a script that traces Wikipedia links to Philosophy, detecting redirects, loops, and dead ends -->
     <!-- - django projects:
         - [1](https://github.com/arash039/python-projects/tree/main/django/django-learning-1): consists of 4 apps that covers django basics
         - [2](https://github.com/arash039/python-projects/tree/main/django/django-learning-2): consists of 10 apps that covers topics such as Object-Relational Mapping (ORM) and SQL, views, templates, and forms 
         - [life pro tips](https://github.com/arash039/python-projects/tree/main/django/life_pro_tips): a Django-based web application where users can register and login to share, upvote, and downvote life tips -->
-- **Java Projects:**
-  <!--  - [fixme](https://github.com/arash039/fixme): implementation of a FIX protocol router that utilizes Chain-of-Responsibility design pattern -->
-    - [AvajLauncher](https://github.com/arash039/AvajLauncher): implementation of Observer, Singleton and Factory design patterns based on an UML class diagram
 - **DevOps Projects:**
     - [inception](https://github.com/arash039/inception):  a system administration project that focuses on using Docker to automate set up a small infrastructure composed of different services.
     - [trsnsendence](https://github.com/arash039/ft_transcendence?tab=readme-ov-file#devops):  integrate the ELK stack for log management and Prometheus and Grafana for monitoring and performance visualization
