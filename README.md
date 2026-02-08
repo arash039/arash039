@@ -1,6 +1,6 @@
 Hi, I’m Arash
 
-Currently pursuing software engineering at 42 Berlin, a project-based coding school known for its innovative and collaborative learning environment. Focused on developing robust software solutions through hands-on experience and continuous learning, I am gaining proficiency in a variety of programming languages and tools, including Python, C++, Java, Git, Docker, and various testing frameworks, and developing skills in algorithm design, data structures, problem-solving, and systems programming. Here you can see a few examples of my work in 42 School.
+I try to gain experience in a variety of technologies. Here you can see a few examples of my works.
 
 
 - **C++ Projectst:**
