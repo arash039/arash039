@@ -27,6 +27,7 @@ I try to gain experience in a variety of technologies. Here you can see a few ex
     - [minishell](https://github.com/arash039/minishell): a mini command line shell, works similar to bash
     - [cub3D](https://github.com/arash039/cub3D): a sample first person game like environment similar to famous Wolfstein game
     - [push-swap](https://github.com/arash039/push_swap): a project designed to sort a stack of integers using a limited set of operations
+<!---
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arash039&layout=compact&langs_count=8&hide=css,scss,php,solidity,html" alt="Top Languages" />
 </p>
