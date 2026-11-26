@@ -1,37 +1,97 @@
-Hi, I’m Arash
+<h1 align="center">Arash Shoja</h1>
+<h3 align="center">Software Engineer · Backend, Cloud &amp; Security · Berlin, Germany</h3>
 
-I try to gain experience in a variety of technologies. Here you can see a few examples of my works.
-
-
-- **C++ Projectst:**
-    - [webserver](https://github.com/arash039/webserv): a mini nginx type webserver
-    <!-- -- [mastering OOP](https://github.com/arash039/Mastering-OOP): 10 small project each with multiple exercises that covers all necessary for object oriented programming and c++ -->
-- **Python Projects:**
-    - [trsnsendence](https://github.com/arash039/ft_transcendence): online multiplayer pong-game using Django
-    - [task management API](https://github.com/arash039/task-api): a task management API using Django and Django REST Framework
-    <!-- - [auth-app](https://github.com/arash039/flask-auth-app): a simple authentication app using Flask -->
-    <!-- - [arachinda](https://github.com/arash039/python-projects/tree/main/arachnida): spider- a web picture scraper & scorpion- a tool to show image metadata -->
-    - [ft_otp](https://github.com/arash039/python-projects/tree/main/ft_otp): a command line otp generator
-    <!-- - [stckholm](https://github.com/arash039/python-projects/tree/main/stockholm): a simple software to encrypt files in a specific directory -->
-    - [inquisitor](https://github.com/arash039/python-projects/tree/main/inquisitor): a tool designed for network analysis and monitoring
-    - [SaaS app](https://github.com/arash039/FastAPISaaSApp): FastAPI-based Software as a Service (SaaS) application
-    <!-- - [roads_to_philosophy](https://github.com/arash039/python-projects/tree/main/roads_to_philosophy): a script that traces Wikipedia links to Philosophy, detecting redirects, loops, and dead ends -->
-    <!-- - django projects:
-        - [1](https://github.com/arash039/python-projects/tree/main/django/django-learning-1): consists of 4 apps that covers django basics
-        - [2](https://github.com/arash039/python-projects/tree/main/django/django-learning-2): consists of 10 apps that covers topics such as Object-Relational Mapping (ORM) and SQL, views, templates, and forms 
-        - [life pro tips](https://github.com/arash039/python-projects/tree/main/django/life_pro_tips): a Django-based web application where users can register and login to share, upvote, and downvote life tips -->
-- **DevOps Projects:**
-    - [inception](https://github.com/arash039/inception):  a system administration project that focuses on using Docker to automate set up a small infrastructure composed of different services.
-    - [trsnsendence](https://github.com/arash039/ft_transcendence?tab=readme-ov-file#devops):  integrate the ELK stack for log management and Prometheus and Grafana for monitoring and performance visualization
-- **C Projects:**
-    - [minishell](https://github.com/arash039/minishell): a mini command line shell, works similar to bash
-    - [cub3D](https://github.com/arash039/cub3D): a sample first person game like environment similar to famous Wolfstein game
-    - [push-swap](https://github.com/arash039/push_swap): a project designed to sort a stack of integers using a limited set of operations
-<!---
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arash039&layout=compact&langs_count=8&hide=css,scss,php,solidity,html" alt="Top Languages" />
+  <a href="https://github.com/arash039"><img src="https://img.shields.io/badge/GitHub-arash039-181717?logo=github&logoColor=white" alt="GitHub"></a>
 </p>
-<!---
-arash039/arash039 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+---
+
+I build backend services, cloud infrastructure, and systems software. My work
+spans production-style APIs and containerized deployments as well as low-level
+HTTP servers and hands-on security labs, with a recurring focus on reliability,
+automation, and clean design.
+
+## Featured Projects
+
+### [SOC Lab](https://github.com/arash039/SOC_Lab)
+A self-contained, local SOC practice lab built around Splunk's `attack_data`.
+It replays real attack telemetry into a local Splunk instance and adds guided
+scenarios, a curated hunt playbook, AI-assisted dataset enrichment, and full
+data-lifecycle management.
+<br>`Python` · `Splunk` · `Docker` · `REST`
+
+### [sad-cloud](https://github.com/arash039/sad-cloud)
+Terraform modules that stand up a deliberately vulnerable AWS environment —
+VPC, IAM, CloudTrail, Config, CloudWatch, S3, and RDS — for cloud-security
+training, misconfiguration scanning, and hardening practice.
+<br>`Terraform` · `AWS` · `Cloud Security`
+
+### [ft_transcendence](https://github.com/arash039/ft_transcendence)
+A real-time multiplayer Pong platform with Django Channels and WebSockets,
+tournaments, and reconnection handling, plus ELK-based logging and
+Prometheus/Grafana monitoring.
+<br>`Django` · `WebSockets` · `Docker` · `ELK` · `Prometheus` · `Grafana`
+
+### [FastAPISaaSApp](https://github.com/arash039/FastAPISaaSApp)
+A FastAPI SaaS backend with JWT authentication, role-based access control,
+TOTP multi-factor authentication, GitHub OAuth, SQLAlchemy persistence, and a
+pytest test suite.
+<br>`FastAPI` · `SQLAlchemy` · `JWT` · `OAuth` · `pytest`
+
+### [webserv](https://github.com/arash039/webserv)
+An HTTP/1.1 server written in C++ on top of `poll()`, with multi-server config
+parsing, chunked transfer encoding, request timeouts, and structured logging.
+<br>`C++` · `Sockets` · `HTTP`
+
+### [inception](https://github.com/arash039/inception)
+A Dockerized WordPress stack with Nginx and TLS, php-fpm, and MariaDB, using
+custom networks, persistent volumes, and Makefile-driven automation.
+<br>`Docker` · `Nginx` · `MariaDB` · `Linux`
+
+## More Projects
+
+**Cloud & Infrastructure**
+- [terraform_oci](https://github.com/arash039/terraform_oci) — WordPress on Oracle Cloud Infrastructure with Terraform, Docker, Caddy, and MySQL.
+- [ansible-cloud](https://github.com/arash039/ansible-cloud) — Ansible roles that automate a Caddy + Docker + MariaDB + WordPress deployment.
+
+**Backend & APIs**
+- [task-api](https://github.com/arash039/task-api) — Django REST task-management API with houses, memberships, attachments, and custom permissions.
+- [FastAPITicketingApp](https://github.com/arash039/FastAPITicketingApp) — Async FastAPI ticketing service with SQLAlchemy, payment handling, and pytest coverage.
+
+**Systems & C/C++**
+- [minishell](https://github.com/arash039/minishell) — A Bash-like shell in C.
+- [cub3D](https://github.com/arash039/cub3D) — A raycasting 3D engine in C.
+- [push_swap](https://github.com/arash039/push_swap) — Stack sorting with a constrained instruction set.
+- [philosophers](https://github.com/arash039/philosophers) — Dining-philosophers concurrency exercise.
+- [mini_serv](https://github.com/arash039/mini_serv) — A minimal C server.
+
+**Languages & Security Tooling**
+- [AvajLauncher](https://github.com/arash039/AvajLauncher) — A Java aircraft simulation demonstrating Singleton, Observer, and Factory patterns from a strict UML spec.
+- [python-projects](https://github.com/arash039/python-projects) — A Python toolkit: OTP generator, network analyzer, image scraper/metadata tool, file encryptor, and Django practice apps.
+
+## Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white" alt="SQLAlchemy">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white" alt="Terraform">
+  <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white" alt="Ansible">
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white" alt="Splunk">
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/arash039?tab=repositories">Browse all repositories →</a>
+</p>
